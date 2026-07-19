@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SistemaAula.API/SistemaAula.API.csproj" />
+  <Project Path="SistemaAula.Domain/SistemaAula.Domain.csproj" />
+  <Project Path="SistemaAula.Infrastructure/SistemaAula.Infrastructure.csproj" />
+</Solution>
